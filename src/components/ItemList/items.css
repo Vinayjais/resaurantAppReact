@@ -6,12 +6,20 @@ li{
     border-radius: 15px;
     margin-top: 10px;
     font-family: 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: space-between;
    
-
     
 }
 .itemPrice{
     color: brown;
     font-size: 18px;
     font-weight: bold;
+}
+.QuantityForm{
+    display: flex;
+    flex-direction: column;
+}
+.QuantityForm .formControl input{
+      width: 40px;
 }
