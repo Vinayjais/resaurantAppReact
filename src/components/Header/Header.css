@@ -24,7 +24,7 @@
 }
 
 .cart{
-    background-color: rgb(128, 151, 151);
+    background-color: rgb(26, 29, 29);
     padding: 5px;
     border-radius: 5px;
     width: 100px;
@@ -35,7 +35,7 @@
      
 }
 .cartItems{
-    background-color: rgb(53, 50, 50);
+    background-color: rgb(245, 121, 39);
     border-radius: 10px;
     width: 25px;
     padding-left: 6px;
